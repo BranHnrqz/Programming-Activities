@@ -1,0 +1,8 @@
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\bin\Debug\PrendasApp.exe.config
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\bin\Debug\PrendasApp.exe
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\bin\Debug\PrendasApp.pdb
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\obj\Debug\PrendasApp.csproj.AssemblyReference.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\obj\Debug\PrendasApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\obj\Debug\PrendasApp.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\obj\Debug\PrendasApp.exe
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\PrendasApp\PrendasApp\obj\Debug\PrendasApp.pdb
