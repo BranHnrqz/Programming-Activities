@@ -1,0 +1,8 @@
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\bin\Debug\ZapatosAPP.exe.config
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\bin\Debug\ZapatosAPP.exe
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\bin\Debug\ZapatosAPP.pdb
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\obj\Debug\ZapatosAPP.csproj.AssemblyReference.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\obj\Debug\ZapatosAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\obj\Debug\ZapatosAPP.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\obj\Debug\ZapatosAPP.exe
+C:\Users\BRANDON\Documents\GitHub\Programming-Activities\ZapatosAPP\ZapatosAPP\obj\Debug\ZapatosAPP.pdb
