@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\obj\Debug\Farmer.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\obj\Debug\Farmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\obj\Debug\Farmer.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\ALUMNO\Desktop\Farmer\Farmer\obj\Debug\Farmer.pdb
